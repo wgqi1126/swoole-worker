@@ -1,0 +1,18 @@
+{
+    "name": "wgqi1126/swoole-worker",
+    "description": "Swoole job worker helper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wgqi1126\\SwooleWorker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Echo",
+            "email": "wgqi1126@qq.com"
+        }
+    ],
+    "require": {}
+}
